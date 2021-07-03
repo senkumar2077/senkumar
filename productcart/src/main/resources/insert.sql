@@ -1,0 +1,1 @@
+insert into product values(101,'PayNow','Pay immediately');
